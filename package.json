@@ -1,0 +1,24 @@
+{
+  "name": "route-picker-umi-plugin",
+  "version": "0.0.1",
+  "description": "用于在 umi 开发时选出关注的路由, 忽略其它的路由, 从而提高开发时的编译效率.",
+  "main": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "father build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "umi plugin",
+    "umi 开发效率",
+    "umi 路由"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "father": "^4.4.1",
+    "umi": "^4.2.5"
+  }
+}
