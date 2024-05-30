@@ -1,6 +1,6 @@
 {
   "name": "route-picker-umi-plugin",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "用于在 umi 开发时指定关注的路由, 忽略其它的路由, 从而提高开发时的编译效率.",
   "main": "dist/cjs/index.js",
   "files": [

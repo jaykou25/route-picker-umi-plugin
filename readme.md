@@ -1,3 +1,10 @@
+# route-picker-umi-plugin
+<p>
+  <a href="https://www.npmjs.com/package/route-picker-umi-plugin"><img src="https://badgen.net/npm/v/route-picker-umi-plugin" alt="Version" /></a>
+  <a href="https://www.npmjs.com/package/route-picker-umi-plugin"><img src="https://badgen.net/npm/dm/route-picker-umi-plugin" alt="Downloads" /></a>
+  <a href="https://www.npmjs.com/package/route-picker-umi-plugin"><img src="https://badgen.net/npm/license/route-picker-umi-plugin" alt="License" /></a>
+</p>
+
 该插件仅用于本地开发, 不会影响生产打包.
 
 该插件仅适用于 umi4.
