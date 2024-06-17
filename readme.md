@@ -81,5 +81,7 @@ export default defineConfig({
 2. routePicker 若为空或者是空数组, 则所有路由都会被保留. 
 3. 即使你并不想要过滤掉任何路由, 这个插件仍然值得开启, 因为对于约定式路由的热更新, 插件还是能够为你减少很多的时间. (上文的第一点) 
 
+本插件只适用于 umi4, 如果是 umi3 请使用 [route-picker-umi3-plugin](https://github.com/jaykou25/route-picker-umi3-plugin)
+
 [^1]: 测试 590 个路由, `getConventionRoutes` 耗时 6.9 秒, `getConfigRoutes` 耗时 0.005 秒.
 [^2]: 测试 590 个路由, 未开启插件时热更新 27 秒, 开启插件不指定路由热更新 12 秒, 开启插件指定一个路由热更新 6 秒
