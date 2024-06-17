@@ -1,7 +1,15 @@
 {
   "name": "route-picker-umi-plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "用于在 umi 开发时指定关注的路由, 忽略其它的路由, 从而提高开发时的编译效率.",
+  "homepage": "https://github.com/jaykou25/route-picker-umi-plugin",
+  "bugs": {
+    "url": "https://github.com/jaykou25/route-picker-umi-plugin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaykou25/route-picker-umi-plugin"
+  },
   "main": "dist/cjs/index.js",
   "files": [
     "dist"
